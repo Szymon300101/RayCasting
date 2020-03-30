@@ -2,10 +2,7 @@
 Program napisany w Javie w środowisku graficznym Processing.  
 Aby go skompilować wymagane jest środowisko.  
 (Program używa biblioteki controlP5)  
-  
-W zakładce **Releases** znajduje się instalator do pobrania  
-dla 64-bitowego Windowsa.  
-  
+    
 RayCasting to program, który symuluje zachowanie świtała i jego odbić.  
 Urzytkownik może wprowadzić plik z figurami geometrycznymi,  
 a następnie dodać źródła światła oraz skonfiguraować paramtery  
@@ -14,7 +11,10 @@ Następnie program narysuje promienie światła odbijające się i rozpraszając
 na powieszchniach wgranych obiektów.  
 Poza tworzeniem ciekawej interaktywnej grafiki, program może być wykorzystywany  
 do symulowania zachowania światła np. w pomieszczeniach jeszcze na etapie wczesnego  
-projektu, znaim możliwe będzie zrobienie pomiarów.  
+projektu, zanim możliwe będzie zrobienie pomiarów.  
+  
+W zakładce **Releases** znajduje się instalator do pobrania  
+dla 64-bitowego Windowsa.  
   
 Program posiada instrukcję urzytkowania: [link](https://user.infa8lo.pl/3c1/nowacki/private/help.html)  
 
@@ -54,7 +54,11 @@ Ekran wyboru pliku:
 Interface urzytkownika:  
 ![](GFX/007.PNG)  
 Grafika generowana przez program:  
+[REFLECTIONS]=100; [Difusion]=1;  
 ![](GFX/003.PNG)  
+[REFLECTIONS]=100; [Difusion]=1;
 ![](GFX/004.PNG)  
+[Difusion]=0; [Reflect]~0.6;
 ![](GFX/005.PNG)  
+Ustawienia jak na grafice nr.2
 ![](GFX/006.PNG)  
