@@ -4,9 +4,9 @@ Aby go skompilować wymagane jest środowisko.
 (Program używa biblioteki controlP5)  
     
 RayCasting to program, który symuluje zachowanie świtała i jego odbić.  
-Urzytkownik może wprowadzić plik z figurami geometrycznymi,  
+Użytkownik może wprowadzić plik z figurami geometrycznymi,  
 a następnie dodać źródła światła oraz skonfiguraować paramtery  
-tych źródeł, jak i materaiłów z których zrobione są wprowadzone krztałty.  
+tych źródeł, jak i materiałów z których zrobione są wprowadzone krztałty.  
 Następnie program narysuje promienie światła odbijające się i rozpraszające  
 na powieszchniach wgranych obiektów.  
 Poza tworzeniem ciekawej interaktywnej grafiki, program może być wykorzystywany  
@@ -15,8 +15,6 @@ projektu, zanim możliwe będzie zrobienie pomiarów.
   
 W zakładce **Releases** znajduje się instalator do pobrania  
 dla 64-bitowego Windowsa.  
-  
-Program posiada instrukcję urzytkowania: [link](https://user.infa8lo.pl/3c1/nowacki/private/help.html)  
 
 ### Pliki wejściowe
 Aplikacja obsługuje pliki DXF. (testowane na standardzie AutoCAD i Rhinoceros)  
