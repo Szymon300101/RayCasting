@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="src/|code/" kind="src" path=""/>
+	<classpathentry kind="src" path="code"/>
+	<classpathentry kind="lib" path="D:/PLIKI/#INFORMATYKSY/Java/RayCasting_3.0/code/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="D:/PLIKI/#INFORMATYKSY/Java/RayCasting_3.0/code/jogl-all.jar"/>
+	<classpathentry kind="lib" path="D:/PLIKI/#INFORMATYKSY/Java/RayCasting_3.0/code/nativewindow-awt.jar"/>
+	<classpathentry kind="lib" path="D:/PLIKI/#INFORMATYKSY/Java/RayCasting_3.0/code/jmf-2.1.1e.jar"/>
+	<classpathentry kind="lib" path="code/batik-all.jar"/>
+	<classpathentry kind="lib" path="code/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="code/jmf-2.1.1e.jar"/>
+	<classpathentry kind="lib" path="code/jogl-all.jar"/>
+	<classpathentry kind="lib" path="code/js.jar"/>
+	<classpathentry kind="lib" path="code/kabeja-0.4.jar"/>
+	<classpathentry kind="lib" path="code/kabeja-svg-0.4.jar"/>
+	<classpathentry kind="lib" path="code/kabeja-xslt.jar"/>
+	<classpathentry kind="lib" path="code/miethxml-toolkit.jar"/>
+	<classpathentry kind="lib" path="code/miethxml-ui.jar"/>
+	<classpathentry kind="lib" path="code/nativewindow-awt.jar"/>
+	<classpathentry kind="lib" path="code/pdf-transcoder.jar"/>
+	<classpathentry kind="lib" path="code/xml-apis.jar"/>
+	<classpathentry kind="lib" path="code/xml-apis-ext.jar"/>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="lib" path="D:/PLIKI/#INFORMATYKSY/Java/RayCasting_3.0/code/gson-2.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
