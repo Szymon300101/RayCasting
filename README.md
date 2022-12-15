@@ -1,4 +1,7 @@
 # RayCasting
+  
+PRZESTARZAŁA WERSJA PROGRAMU. NOWA WERSJA ZNAJDUJE SIĘ NA BRANCHU 'v3'.
+  
 Program napisany w Javie w środowisku graficznym Processing.  
 Aby go skompilować wymagane jest środowisko.  
 (Program używa biblioteki controlP5)  
