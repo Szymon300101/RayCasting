@@ -12,3 +12,5 @@ na powieszchniach wgranych obiektów.
 Program czyta większośc plików dxf, jednak może mieć problemy m.in. z poliliniami. Lepiej rozbić je na łuki i proste. 
 Ogólnie program może mieć jeszcze błędy, bo był pisany na przestrzeni 4 lat trochę na kolanie. Czasem żeby działał trzeba pokombinować,
 ale zawsze da się zrobić żeby działał.  
+
+Więcej dokumentacji jak i screeny z działania programu znajdują się na branchu 'main', któ©y zaweira starą wersję aplikacji. Tamta dokumentacja dotyczy jednak starej wersji, więc niektóre żeczy mogą być nieaktualne.
